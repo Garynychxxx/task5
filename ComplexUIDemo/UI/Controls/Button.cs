@@ -1,10 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
-using m5task.Ext;
 using OpenQA.Selenium;
 
 namespace m5task.UI.Controls
